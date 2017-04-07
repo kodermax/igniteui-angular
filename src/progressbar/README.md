@@ -1,6 +1,7 @@
-# igx-linear-bar and igx-circular-bar
+# Progress Bar
 
-Both `linear` and `circular` bar components provides the ability to display a progress bar and its state changes.
+Both linear `igx-linear-bar` and circular `igx-circular-bar` components provides the ability to display a progress bar and its state changes.
+
 Displayed number value property determines the load state.
 
 # Usage
